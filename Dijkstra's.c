@@ -19,8 +19,6 @@ printf("\nenter the cost matrix:\n");
  dijkstras();
  getch();
 }
-
-
 void dijkstras()
 {
 int vis[10],dist[10],u,j,count,min;
